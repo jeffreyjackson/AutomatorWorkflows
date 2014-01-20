@@ -1,4 +1,4 @@
-# Automator Scripts
+# Automator Workflows
 
 ## AppIcons
 Use your 1024px app icon image and make all of your other required app icon sizes.
